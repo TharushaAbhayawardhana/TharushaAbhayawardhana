@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     ANIMATED WAVE HEADER                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2035,50:2d4a8a,100:c9a86c&height=200&section=header&text=Tharusha%20Abhayawardhana&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Blockchain%20Researcher%20%7C%20IEEE%20Leader&descAlignY=58&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,70:1a1a4e,100:0f0c29&height=220&section=header&text=Tharusha%20Abhayawardhana&fontSize=42&fontColor=f0c060&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Blockchain%20Researcher%20%7C%20IEEE%20Leader&descAlignY=57&descSize=17&descColor=dddddd&animation=fadeIn" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      TYPING ANIMATION                          -->
@@ -15,10 +15,10 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--               PROFILE VIEWS + FOLLOWER BADGES                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://komarev.com/ghpvc/?username=TharushaAbhayawardhana&label=Profile+Views&color=c9a86c&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=TharushaAbhayawardhana&label=Profile+Views&color=302b63&style=for-the-badge" alt="Profile Views" />
 &nbsp;
 <a href="https://github.com/TharushaAbhayawardhana?tab=followers">
-  <img src="https://img.shields.io/github/followers/TharushaAbhayawardhana?label=Followers&style=for-the-badge&color=1a2035&labelColor=c9a86c" />
+  <img src="https://img.shields.io/github/followers/TharushaAbhayawardhana?label=Followers&style=for-the-badge&color=302b63&labelColor=f0c060&logoColor=white" />
 </a>
 
 </div>
@@ -225,15 +225,22 @@ interests  : Coding · Community Building · Tech Events · Leadership · DeFi S
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TharushaAbhayawardhana&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a2035&title_color=c9a86c&icon_color=c9a86c&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharushaAbhayawardhana&layout=compact&theme=dark&hide_border=true&bg_color=1a2035&title_color=c9a86c&text_color=ffffff" />
+<!-- Profile Summary Cards — more reliable than github-readme-stats.vercel.app -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TharushaAbhayawardhana&theme=github_dark" width="100%" />
 
 </div>
 
 <div align="center">
 
-<!-- streak-stats.demolab.com is the most reliable streak stats host in 2025 -->
-<img src="https://streak-stats.demolab.com/?user=TharushaAbhayawardhana&theme=dark&hide_border=true&background=1a2035&stroke=c9a86c&ring=c9a86c&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9a86c&sideLabels=c9a86c&dates=aaaaaa" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TharushaAbhayawardhana&theme=github_dark" height="170em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TharushaAbhayawardhana&theme=github_dark" height="170em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TharushaAbhayawardhana&theme=github_dark" height="170em" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=TharushaAbhayawardhana&theme=github-dark-blue&hide_border=true&ring=f0c060&fire=ff6b35&currStreakLabel=f0c060&sideLabels=f0c060&dates=888888" />
 
 </div>
 
@@ -247,7 +254,29 @@ interests  : Coding · Community Building · Tech Events · Leadership · DeFi S
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TharushaAbhayawardhana&bg_color=1a2035&color=c9a86c&line=2d4a8a&point=c9a86c&area=true&hide_border=true&area_color=2d4a8a" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TharushaAbhayawardhana&bg_color=0d1117&color=f0c060&line=4a5fc1&point=f0c060&area=true&hide_border=true&area_color=21264a" />
+
+</div>
+
+---
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--          CONTRIBUTION SNAKE ANIMATION (GitHub Actions)         -->
+<!--  Add this workflow to your repo to auto-generate the snake:    -->
+<!--  .github/workflows/snake.yml  (see footer note)                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TharushaAbhayawardhana/TharushaAbhayawardhana/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TharushaAbhayawardhana/TharushaAbhayawardhana/output/github-snake.svg" />
+  <img alt="" src="https://raw.githubusercontent.com/TharushaAbhayawardhana/TharushaAbhayawardhana/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -320,6 +349,40 @@ interests  : Coding · Community Building · Tech Events · Leadership · DeFi S
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a86c,50:2d4a8a,100:1a2035&height=120&section=footer" />
+<details>
+<summary>⚙️ <b>Enable the Contribution Snake Animation</b></summary>
+<br/>
+
+Create `.github/workflows/snake.yml` in your profile repo with:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: TharushaAbhayawardhana
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:0f0c29&height=120&section=footer" />
 
 </div>
