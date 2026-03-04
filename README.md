@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     ANIMATED WAVE HEADER                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,70:1a1a4e,100:0f0c29&height=220&section=header&text=Tharusha%20Abhayawardhana&fontSize=42&fontColor=f0c060&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Blockchain%20Researcher%20%7C%20IEEE%20Leader&descAlignY=57&descSize=17&descColor=dddddd&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1c1c3a,100:3d3200&height=220&section=header&text=Tharusha%20Abhayawardhana&fontSize=42&fontColor=f0c060&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Blockchain%20Researcher%20%7C%20IEEE%20Leader&descAlignY=57&descSize=17&descColor=dddddd&animation=fadeIn" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      TYPING ANIMATION                          -->
@@ -15,10 +15,10 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--               PROFILE VIEWS + FOLLOWER BADGES                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://komarev.com/ghpvc/?username=TharushaAbhayawardhana&label=Profile+Views&color=302b63&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=TharushaAbhayawardhana&label=Profile+Views&color=1c1c3a&style=for-the-badge" alt="Profile Views" />
 &nbsp;
 <a href="https://github.com/TharushaAbhayawardhana?tab=followers">
-  <img src="https://img.shields.io/github/followers/TharushaAbhayawardhana?label=Followers&style=for-the-badge&color=302b63&labelColor=f0c060&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/TharushaAbhayawardhana?label=Followers&style=for-the-badge&color=1c1c3a&labelColor=f0c060&logoColor=white" />
 </a>
 
 </div>
@@ -383,6 +383,6 @@ jobs:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:0f0c29&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d3200,50:1c1c3a,100:0a0a0a&height=120&section=footer" />
 
 </div>
