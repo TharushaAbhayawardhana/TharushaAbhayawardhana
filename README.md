@@ -15,7 +15,7 @@
 <img src="https://komarev.com/ghpvc/?username=TharushaAbhayawardhana&label=Profile+Views&color=0ea5e9&style=flat-square&labelColor=0f172a" />
 &nbsp;&nbsp;
 <a href="https://github.com/TharushaAbhayawardhana?tab=followers">
-  <img src="https://img.shields.io/github/followers/TharushaAbhayawardhana?label=Followers&style=flat-square&color=22d3ee&labelColor=0f172a" />
+  <img src="https://img.shields.io/github/followers/tharushaabhayawardhana?style=flat-square&color=22d3ee&labelColor=0f172a" />
 </a>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Focus-Blockchain%20%26%20ML-3b82f6?style=flat-square&labelColor=0f172a" />
