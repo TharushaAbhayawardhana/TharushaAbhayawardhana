@@ -8,9 +8,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      TYPING ANIMATION                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C9A86C&center=true&vCenter=true&multiline=false&random=false&width=700&height=60&lines=👋+Hey%2C+I'm+Tharusha+Randima!;🚀+Full-Stack+Developer+%7C+React+%26+Node.js;🔬+Blockchain+Security+Researcher;🏛️+IEEE+TechVerse+Sri+Lanka+Chairperson;💡+Building+solutions+that+matter!" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C9A86C&center=true&vCenter=true&multiline=false&random=false&width=700&height=60&lines=👋+Hey%2C+I'm+Tharusha+Randima!;🚀+Full-Stack+Developer+%7C+React+%26+Node.js;🔬+Blockchain+Security+Researcher;🏛️+IEEE+TechVerse+Sri+Lanka+Chairperson;💡+Building+solutions+that+matter!" alt="" />
 
 <br/>
 
@@ -38,14 +36,14 @@ name       : Tharusha Randima Abhayawardhana
 location   : Boralesgamuwa, Sri Lanka 🇱🇰
 education  : BSc (Hons) Computer Science  @  University of Jaffna
 roles      :
-  - Founder & Organiser  —  TechFest Sri Lanka  (Dec 2025)
+  - Founder & Organiser  —  TechFest Sri Lanka
   - Chairperson          —  IEEE TechVerse Sri Lanka  (2025–2026)
-  - Full-Stack Developer  @  Volkanic Pvt Ltd
+  - Full-Stack Developer
   - Ex Technical Support Officer  @  Aiken Pvt Ltd
 research   : "Securing Ethereum from Smart Ponzi Schemes  (ML + Blockchain)"
 currently  :
   - 🔬  Researching Smart Ponzi Scheme detection on Ethereum via ML models
-  - ⚛️   Building full-stack apps with React & Node.js
+  - ⚛️   Building full-stack apps with React, Next.js & Node.js
   - 🌍  Growing Sri Lanka's largest student tech community — IEEE TechVerse SL
 interests  : Coding · Community Building · Tech Events · Leadership · DeFi Security
 ```
@@ -60,8 +58,8 @@ interests  : Coding · Community Building · Tech Events · Leadership · DeFi S
 
 | 🎓 Education | 🏛️ Community | 🔬 Research | 🌐 Projects |
 |:-:|:-:|:-:|:-:|
-| BSc CS · Uni of Jaffna | Chairperson · IEEE TechVerse SL | Ethereum Security · ML | 6+ Live Projects |
-| Java Cert · NIBM Colombo | 5,000+ Students Reached | DeFi Integrity · Blockchain | React · Laravel · Node.js |
+| BSc CS · Uni of Jaffna | Chairperson · IEEE TechVerse SL | Ethereum Security · ML | React · Next.js · Node.js |
+| Java Cert · NIBM Colombo | 5,000+ Students Reached | DeFi Integrity · Blockchain | Laravel · Java · Firebase |
 
 </div>
 
@@ -108,6 +106,7 @@ interests  : Coding · Community Building · Tech Events · Leadership · DeFi S
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -154,7 +153,7 @@ interests  : Coding · Community Building · Tech Events · Leadership · DeFi S
 <td width="50%" valign="top">
 
 ### 🎪 Founder — TechFest Sri Lanka
-**Dec 2025 · IEEE TechVerse SL & IEEE SL SAC**
+**IEEE TechVerse SL & IEEE SL SAC**
 - 🏟️ Organised Sri Lanka's premier student tech forum at **Trace Expert City**
 - 👥 **500+ tech students** connected with industry leaders
 - 🎤 Curated **6 prominent speakers** from Helakuru, Nagarro, Doerscircle, NVentures, SRQ Robotics & Evolvingskills.org
@@ -186,7 +185,7 @@ interests  : Coding · Community Building · Tech Events · Leadership · DeFi S
 <td width="50%" valign="top">
 
 ### 🔬 Research — Blockchain Security
-**University of Jaffna · 2024 – Present**
+**Ongoing · University of Jaffna**
 - 🧠 Enhancing **ML models** to detect Smart Ponzi Schemes on Ethereum
 - 📊 Analysing on-chain transaction patterns & smart contract bytecode
 - 🔍 Feature engineering for improved detection accuracy
@@ -206,14 +205,13 @@ interests  : Coding · Community Building · Tech Events · Leadership · DeFi S
 
 <div align="center">
 
-| Project | Description | Tech Stack | Link |
+| Project | Description | Tech Stack | Repo |
 |:--|:--|:--|:--:|
-| 🌊 **MarineX360** | Marine solutions platform for South Asia — Volkanic Pvt Ltd | React, CSS3 | [🔗 Live](https://marinex360.com/) |
-| 🎉 **TechFest SL Website** | Official event site for TechFest Sri Lanka — Volkanic Pvt Ltd | React, CSS3 | [🔗 Live](https://techfest.techverse.ieee.lk/) |
-| 🌾 **Organic Farm App** | Full-stack farm management system *(Group Project — Completed)* | React, Node.js, Express, Firebase | `Private` |
-| 🎓 **Research & Alumni Portal** | University research & alumni management *(Group Project)* | Laravel, PHP, MySQL | `Private` |
-| ✅ **React Native To-Do App** | Microsoft To-Do clone — sorting, priorities & notifications | React Native, Firebase, Expo | `Private` |
-| 🎬 **4D Motion Films App** | Custom Java app for video production & client bookings | Java, NetBeans, MySQL | `Private` |
+| 🌾 **Three Star Organic Farm** | Full-stack farm management system *(Group Project)* | React, Node.js, Express, Firebase | [🔗 GitHub](https://github.com/TharushaAbhayawardhana/threestar_organic) |
+| 🏥 **Medical Center — UOJ** | Medical centre management system for University of Jaffna | PHP, MySQL, JavaScript | [🔗 GitHub](https://github.com/TharushaAbhayawardhana/MedicalCenterProject-UOJ) |
+| 🎓 **Alumni & Research Portal** | University alumni network & research paper platform *(Group Project)* | Laravel, PHP, MySQL | [🔗 GitHub](https://github.com/TharushaAbhayawardhana/AlumniNetwork-ResearchPlatform) |
+| ✅ **React Native To-Do App** | Microsoft To-Do clone — priorities, sorting & notifications *(Group Project)* | React Native, Firebase, Expo | [🔗 GitHub](https://github.com/TharushaAbhayawardhana/todo-list-app-group-project) |
+| 🎬 **Studio Soft v1.0** | Custom desktop app for 4D Motion Films — video production & bookings | Java, NetBeans, MySQL | [🔗 GitHub](https://github.com/TharushaAbhayawardhana/Studio-Soft_v_1.0) |
 
 </div>
 
@@ -266,37 +264,19 @@ interests  : Coding · Community Building · Tech Events · Leadership · DeFi S
 
 <div align="center">
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=TharushaAbhayawardhana&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
-
-</div>
-
-<!-- ── Fallback mirrors (uncomment whichever works if the above breaks) ──
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=TharushaAbhayawardhana&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
-<img src="https://github-profile-trophy.vercel.app/?username=TharushaAbhayawardhana&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
--->
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               COMMUNITY & VOLUNTEER WORK                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🤝 Community & Volunteer Work
-
-<div align="center">
-
-| Role | Organisation | Focus |
-|:--|:--|:--|
-| 🏛️ **Chairperson** | IEEE TechVerse Sri Lanka | Leading SL's largest student tech community |
-| ⚡ **Vice Chair** | IEEE Student Branch — UOJ | Industry visits, startup pitching sessions |
-| 📡 **Vice Chair, Technical Activities** | IEEE Sri Lanka Section SAC | AI summits, nationwide tech initiatives |
-| 🎙️ **Program Team Member** | IEEE TechVerse | Tech Emissary, TechTalks with global speakers |
-| 🤖 **Vice Chair** | IEEE CIS Chapter — UOJ | AI & ML workshops |
-| 💻 **Organiser** | Codeathon & Yarl InSight | Competitive coding & innovation programs |
+![MultiLanguage](https://img.shields.io/badge/🏆%20MultiLanguage-gold?style=for-the-badge&labelColor=1a2035&color=c9a86c)
+![Commits](https://img.shields.io/badge/🏆%20Commits-gold?style=for-the-badge&labelColor=1a2035&color=c9a86c)
+![Repositories](https://img.shields.io/badge/🏆%20Repositories-gold?style=for-the-badge&labelColor=1a2035&color=c9a86c)
+![Stars](https://img.shields.io/badge/🏆%20Stars-gold?style=for-the-badge&labelColor=1a2035&color=c9a86c)
+![Followers](https://img.shields.io/badge/🏆%20Followers-gold?style=for-the-badge&labelColor=1a2035&color=c9a86c)
+![PullRequest](https://img.shields.io/badge/🏆%20Pull%20Requests-gold?style=for-the-badge&labelColor=1a2035&color=c9a86c)
+![Issues](https://img.shields.io/badge/🏆%20Issues-gold?style=for-the-badge&labelColor=1a2035&color=c9a86c)
 
 </div>
 
 ---
+
+
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--   DEVELOPER PROFILE BADGES                                     -->
