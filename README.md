@@ -15,12 +15,12 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     PROFILE VIEWS BADGE                        -->
+<!--               PROFILE VIEWS + FOLLOWER BADGES                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://komarev.com/ghpvc/?username=RandimaAbhayawardhana&label=Profile+Views&color=c9a86c&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=TharushaAbhayawardhana&label=Profile+Views&color=c9a86c&style=for-the-badge" alt="Profile Views" />
 &nbsp;
-<a href="https://github.com/RandimaAbhayawardhana?tab=followers">
-  <img src="https://img.shields.io/github/followers/RandimaAbhayawardhana?label=Followers&style=for-the-badge&color=1a2035&labelColor=c9a86c" />
+<a href="https://github.com/TharushaAbhayawardhana?tab=followers">
+  <img src="https://img.shields.io/github/followers/TharushaAbhayawardhana?label=Followers&style=for-the-badge&color=1a2035&labelColor=c9a86c" />
 </a>
 
 </div>
@@ -28,7 +28,7 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME SECTION                         -->
+<!--                    ABOUT ME — YAML CARD                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🧑‍💻 About Me
@@ -36,32 +36,32 @@
 ```yaml
 name       : Tharusha Randima Abhayawardhana
 location   : Boralesgamuwa, Sri Lanka 🇱🇰
-education  : BSc (Hons) Computer Science @ University of Jaffna
+education  : BSc (Hons) Computer Science  @  University of Jaffna
 roles      :
-  - Founder & Organiser — TechFest Sri Lanka
-  - Chairperson — IEEE TechVerse Sri Lanka (2025–2026)
-  - Full-Stack Developer
-  - Ex Technical Support Officer @ Aiken Pvt Ltd
-research   : Securing Ethereum from Smart Ponzi Schemes (ML + Blockchain)
+  - Founder & Organiser  —  TechFest Sri Lanka  (Dec 2025)
+  - Chairperson          —  IEEE TechVerse Sri Lanka  (2025–2026)
+  - Full-Stack Developer  @  Volkanic Pvt Ltd
+  - Ex Technical Support Officer  @  Aiken Pvt Ltd
+research   : "Securing Ethereum from Smart Ponzi Schemes  (ML + Blockchain)"
 currently  :
-  - 🔬 Researching Smart Ponzi Scheme detection on Ethereum via ML
-  - ⚛️  Building full-stack apps with React & Node.js
-  - 🌍 Growing Sri Lanka's largest student tech community
-hobbies    : Coding · Community Building · Tech Events · Leadership
+  - 🔬  Researching Smart Ponzi Scheme detection on Ethereum via ML models
+  - ⚛️   Building full-stack apps with React & Node.js
+  - 🌍  Growing Sri Lanka's largest student tech community — IEEE TechVerse SL
+interests  : Coding · Community Building · Tech Events · Leadership · DeFi Security
 ```
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     QUICK STATS CARDS                          -->
+<!--                    QUICK SNAPSHOT TABLE                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-|  🎓 Education | 🏛️ Community | 🔬 Research | 🌐 Projects |
+| 🎓 Education | 🏛️ Community | 🔬 Research | 🌐 Projects |
 |:-:|:-:|:-:|:-:|
 | BSc CS · Uni of Jaffna | Chairperson · IEEE TechVerse SL | Ethereum Security · ML | 6+ Live Projects |
-| Java Cert · NIBM | 5000+ Students Reached | DeFi Integrity | React · Laravel · Node |
+| Java Cert · NIBM Colombo | 5,000+ Students Reached | DeFi Integrity · Blockchain | React · Laravel · Node.js |
 
 </div>
 
@@ -75,23 +75,24 @@ hobbies    : Coding · Community Building · Tech Events · Leadership
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tharusha%20Abhayawardhana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharushaabhayawardhana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tharusha%20Abhayawardhana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randimaabhayawardhana)
 [![Gmail](https://img.shields.io/badge/Gmail-tharusharandima1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharusharandima1@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%40tharusha__r__abhayawardhana-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tharusha_r_abhayawardhana/)
-[![Facebook](https://img.shields.io/badge/Facebook-Tharusha%20Randima-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008177825231)
-[![TechFest](https://img.shields.io/badge/TechFest%20SL-IEEE%20TechVerse-c9a86c?style=for-the-badge&logo=ieee&logoColor=white)](https://techfest.techverse.ieee.lk)
+[![Facebook](https://img.shields.io/badge/Facebook-Tharusha%20Randima-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/tharusha.randima.abhayawardhana)
+[![TechFest SL](https://img.shields.io/badge/TechFest%20Sri%20Lanka-IEEE%20TechVerse-c9a86c?style=for-the-badge&logo=ieee&logoColor=white)](https://techfest.techverse.ieee.lk)
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  TECH STACK & TOOLS                            -->
+<!--                   TECH STACK & TOOLS                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Languages
+
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -103,6 +104,7 @@ hobbies    : Coding · Community Building · Tech Events · Leadership
 </div>
 
 ### ⚛️ Frameworks & Libraries
+
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -115,6 +117,7 @@ hobbies    : Coding · Community Building · Tech Events · Leadership
 </div>
 
 ### 🗄️ Databases & Backend
+
 <div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -124,6 +127,7 @@ hobbies    : Coding · Community Building · Tech Events · Leadership
 </div>
 
 ### 🔧 Tools & Platforms
+
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -140,7 +144,7 @@ hobbies    : Coding · Community Building · Tech Events · Leadership
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   EXPERIENCE & HIGHLIGHTS                      -->
+<!--                 EXPERIENCE & HIGHLIGHTS                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🚀 Experience & Highlights
@@ -195,7 +199,7 @@ hobbies    : Coding · Community Building · Tech Events · Leadership
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      FEATURED PROJECTS                         -->
+<!--                    FEATURED PROJECTS                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🌟 Featured Projects
@@ -204,12 +208,12 @@ hobbies    : Coding · Community Building · Tech Events · Leadership
 
 | Project | Description | Tech Stack | Link |
 |:--|:--|:--|:--:|
-| 🌊 **MarineX360** | Marine solutions platform for South Asia — built under Volkanic Pvt Ltd | React, CSS3 | [🔗 Live](https://marinex360.com/) |
-| 🎉 **TechFest SL Website** | Official event site for TechFest Sri Lanka | React, CSS3 | [🔗 Live](https://techfest.techverse.ieee.lk/) |
+| 🌊 **MarineX360** | Marine solutions platform for South Asia — Volkanic Pvt Ltd | React, CSS3 | [🔗 Live](https://marinex360.com/) |
+| 🎉 **TechFest SL Website** | Official event site for TechFest Sri Lanka — Volkanic Pvt Ltd | React, CSS3 | [🔗 Live](https://techfest.techverse.ieee.lk/) |
 | 🌾 **Organic Farm App** | Full-stack farm management system *(Group Project — Completed)* | React, Node.js, Express, Firebase | `Private` |
-| 🎓 **Research & Alumni Portal** | University research papers & alumni management *(Group Project)* | Laravel, PHP, MySQL | `Private` |
-| ✅ **React Native To-Do App** | Microsoft To-Do clone with sorting, priorities & notifications | React Native, Firebase, Expo | `Private` |
-| 🎬 **4D Motion Films App** | Custom Java desktop app for video production & client bookings | Java, NetBeans, MySQL | `Private` |
+| 🎓 **Research & Alumni Portal** | University research & alumni management *(Group Project)* | Laravel, PHP, MySQL | `Private` |
+| ✅ **React Native To-Do App** | Microsoft To-Do clone — sorting, priorities & notifications | React Native, Firebase, Expo | `Private` |
+| 🎬 **4D Motion Films App** | Custom Java app for video production & client bookings | Java, NetBeans, MySQL | `Private` |
 
 </div>
 
@@ -223,44 +227,53 @@ hobbies    : Coding · Community Building · Tech Events · Leadership
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RandimaAbhayawardhana&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a2035&title_color=c9a86c&icon_color=c9a86c&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandimaAbhayawardhana&layout=compact&theme=dark&hide_border=true&bg_color=1a2035&title_color=c9a86c&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TharushaAbhayawardhana&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a2035&title_color=c9a86c&icon_color=c9a86c&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharushaAbhayawardhana&layout=compact&theme=dark&hide_border=true&bg_color=1a2035&title_color=c9a86c&text_color=ffffff" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RandimaAbhayawardhana&theme=dark&hide_border=true&background=1a2035&stroke=c9a86c&ring=c9a86c&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9a86c&sideLabels=c9a86c&dates=aaaaaa" />
+<!-- streak-stats.demolab.com is the most reliable streak stats host in 2025 -->
+<img src="https://streak-stats.demolab.com/?user=TharushaAbhayawardhana&theme=dark&hide_border=true&background=1a2035&stroke=c9a86c&ring=c9a86c&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9a86c&sideLabels=c9a86c&dates=aaaaaa" />
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ACTIVITY GRAPH                              -->
+<!--                     ACTIVITY GRAPH                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RandimaAbhayawardhana&bg_color=1a2035&color=c9a86c&line=2d4a8a&point=c9a86c&area=true&hide_border=true&area_color=2d4a8a" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TharushaAbhayawardhana&bg_color=1a2035&color=c9a86c&line=2d4a8a&point=c9a86c&area=true&hide_border=true&area_color=2d4a8a" />
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       ACHIEVEMENTS                             -->
+<!--   GITHUB TROPHIES                                              -->
+<!--   The main vercel.app instance is rate-limited & unreliable.   -->
+<!--   Using the volunteer load-balanced mirror instead.            -->
+<!--   Two additional fallback URLs are commented out below.        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RandimaAbhayawardhana&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=TharushaAbhayawardhana&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
 
 </div>
+
+<!-- ── Fallback mirrors (uncomment whichever works if the above breaks) ──
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=TharushaAbhayawardhana&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=TharushaAbhayawardhana&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+-->
 
 ---
 
@@ -286,23 +299,26 @@ hobbies    : Coding · Community Building · Tech Events · Leadership
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  DEVELOPER RANKING BADGE                       -->
+<!--   DEVELOPER PROFILE BADGES                                     -->
+<!--   stardev.io is down / returns broken SVGs — replaced with     -->
+<!--   reliable shields.io static badges that always render.        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🌍 Developer Ranking
+## 🌍 Developer Profile
 
 <div align="center">
 
-<a href="https://stardev.io/developers/RandimaAbhayawardhana">
-  <img alt="StarDev Profile Badge" src="https://stardev.io/developers/RandimaAbhayawardhana/badge/languages/global.svg" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-TharushaAbhayawardhana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TharushaAbhayawardhana)
+[![Coding Since](https://img.shields.io/badge/Coding%20Since-2020-c9a86c?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-2d4a8a?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](#)
+[![Research](https://img.shields.io/badge/Research-Blockchain%20%2B%20ML-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white)](#)
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     FOOTER WAVE                                -->
+<!--                       FOOTER                                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -314,12 +330,13 @@ hobbies    : Coding · Community Building · Tech Events · Leadership
 
 <br/>
 
-**⚡ Fun Fact:** I founded TechFest Sri Lanka and brought 500+ students together — all while studying for my degree and doing blockchain research! 🚀
+**⚡ Fun fact:** I founded TechFest Sri Lanka and brought 500+ students together — all while studying for my CS degree and doing blockchain research at the same time! 🚀
 
 <br/>
 
 **📬 Open to collaborations, research discussions, and exciting projects!**
-**Drop me a message anytime → [tharusharandima1@gmail.com](mailto:tharusharandima1@gmail.com)**
+
+**Drop me a message → [tharusharandima1@gmail.com](mailto:tharusharandima1@gmail.com)**
 
 <br/>
 
